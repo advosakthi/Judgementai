@@ -209,7 +209,7 @@ def summarize_with_gemini(text_to_summarize, model):
 
 
 # --- Main App Area ---
-st.title("🏛️ Judgement Insights with AI Summary")
+st.title("🏛️ Hon'ble Mr. Justice A.D. Jagadish Chandira")
 st.write("Upload a judgement PDF, enter API key (if needed), generate AI summary, and manually enter details.")
 
 if uploaded_file is not None:
